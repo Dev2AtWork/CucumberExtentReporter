@@ -4,7 +4,6 @@
     <test name="Test" >
         <classes>
             <class name="com.cucumber.runner.TestNGCukesRunner" />
-            <class name="com.cucumber.runner.MyTestNGCukesRunner" />
         </classes>
     </test>
 </suite>
